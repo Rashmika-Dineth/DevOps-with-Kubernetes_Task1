@@ -25,3 +25,11 @@
 5. Run the command "docker run -p 3000:3000 my-node-app" to run the docker image. The result as follows,
 
 ![](Images/Results.JPG)
+
+7. To see the docker images use "docker images"
+
+8. Need to tag username to docker image before push it "docker tag my-node-app rashmika31601/logger:v1.0"
+
+9. Push docker image using "docker push rashmika31601/logger:v1.0"
+
+![](Images/DockerPush.JPG)
