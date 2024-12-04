@@ -36,11 +36,11 @@
 
 ![](Images/YAML.JPG)
 
-10. Build the docker file, "docker build -t rashmika31601/logger:latest ." rashmika31601 is the docker username.
+10. Build the docker file, "docker build -t rashmika31601/logger:v1.0 ." rashmika31601 is the docker username.
 
 11. Login to docker "docker login".
 
-12. Push the docker image to docker, "docker push rashmika31601/logger:latest"
+12. Push the docker image to docker, "docker push rashmika31601/logger:v1.0"
 
 ![](Images/DockerPush.JPG)
 
